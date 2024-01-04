@@ -26,7 +26,7 @@ Follow us for the latest insights, best practices, and trends in cybersecurity. 
 
 ---
 
-*Explore, secure, and innovate with DataDevOps. For inquiries and collaborations, contact us at [contact@email.com].*
+*Explore, secure, and innovate with DataDevOps. For inquiries and collaborations, contact us at [datadevopsinc@gmail.com].*
 
 <!---
 DataDevOpsInc/DataDevOpsInc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
